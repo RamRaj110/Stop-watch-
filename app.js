@@ -36,5 +36,6 @@ const reset = () =>{
     second=0,
     minute=0,
     hour=0;
+    clock.innerText = "00:00:00";
 
 }
